@@ -1,0 +1,14 @@
+C:\Users\a\documents\visual studio 2017\Projects\WindowsFormsApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\a\documents\visual studio 2017\Projects\WindowsFormsApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\a\documents\visual studio 2017\Projects\WindowsFormsApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\a\documents\visual studio 2017\Projects\WindowsFormsApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\a\documents\visual studio 2017\Projects\WindowsFormsApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\a\documents\visual studio 2017\Projects\WindowsFormsApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\a\documents\visual studio 2017\Projects\WindowsFormsApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\开发相关\EHentaiDownloader\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\开发相关\EHentaiDownloader\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\开发相关\EHentaiDownloader\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\开发相关\EHentaiDownloader\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\开发相关\EHentaiDownloader\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\开发相关\EHentaiDownloader\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\开发相关\EHentaiDownloader\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
